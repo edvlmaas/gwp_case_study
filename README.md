@@ -95,21 +95,21 @@ The majority of the steps are executed from the 0_Controller2.R file. The Contro
 *	Create management input files for APSIM and Daycent
   *	APSIM management is written to a text file which must be manually copied and pasted into its corresponding scenario file. 
     *	The file is written to /APSIM/<site> named "mgmt_#_#.txt", where the first # is the 1-digit climate scenario number and the second # is the 1- or 2-digit management scenario number. The text in each management file must be copied and pasted into the Operations Schedule model window for that scenario in the corresponding APSIM scenario file, saved, and then run. The APSIM scenario files follow the same naming convention as "scen_#_#.apsim". Note, however, that some scenarios are bundled together to take advantage of APSIM’s “linking” capabilities. In APSIM, scenarios can be created that “point” to a common scenario, then small changes are made. At KBS, the “scen_#_1.apsim” files include groups 4 and 5 scenarios too, because they are all the same as group 1 (the baseline scenario) during the experimental period, then the future management is changed, which is the only difference between them. At LRF, “scen_#_5.apsim” includes all the group 4 and 5 scenarios, because they are extensions of scenario 53, which is the baseline scenario at LRF.
-    --	To copy in the text, follow these steps exactly: 
+   *	To copy in the text, follow these steps exactly: 
       *	Copy the “mgmt_#_#.txt” text (ctrl-a, copy).
       *	Open the applicable scenario file.
-      •	Expand the + at the “KBS” or “LRF” top level.
-      •	Expand the + at the “scen_#_#” level that corresponds to the “mgmt_#_#” file.
-      •	Expand the + at “paddock”.
-      •	Right-click on “Operations Schedule” and select Delete (this actually works much cleaner than clearing the existing model text and pasting into the old one, which can result in errors when run).
-      •	At the bottom of the APSIM window, click on “Management”.
-      •	In the Toolbox window that opens, on the left side, scroll down to “Operations Schedule”.
-      •	Click on “Operations Schedule”, drag it to the window above and drop it on the word “paddock” which you just expanded. This will create the model within the “paddock” group, which is the required location.
-      •	Click on the new “Operations Schedule” you just created and a blank window to the right will have two empty columns labeled “Date” and “Action”.
-      •	Click in the empty cell under “Date” to highlight it, then paste in the text you copied in the first step. All the dates and actions should be in the proper columns, one day per row. If not, delete the Operations Schedule model and start over.
-•	Run APSIM and Daycent
-  o	Every APSIM scenario file must be run manually and separately. To do so:
-    	Open the first scenario file for the site you are running.
+      *	Expand the + at the “KBS” or “LRF” top level.
+      *	Expand the + at the “scen_#_#” level that corresponds to the “mgmt_#_#” file.
+      *	Expand the + at “paddock”.
+      *	Right-click on “Operations Schedule” and select Delete (this actually works much cleaner than clearing the existing model text and pasting into the old one, which can result in errors when run).
+      *	At the bottom of the APSIM window, click on “Management”.
+      *	In the Toolbox window that opens, on the left side, scroll down to “Operations Schedule”.
+      *	Click on “Operations Schedule”, drag it to the window above and drop it on the word “paddock” which you just expanded. This will create the model within the “paddock” group, which is the required location.
+      *	Click on the new “Operations Schedule” you just created and a blank window to the right will have two empty columns labeled “Date” and “Action”.
+      *	Click in the empty cell under “Date” to highlight it, then paste in the text you copied in the first step. All the dates and actions should be in the proper columns, one day per row. If not, delete the Operations Schedule model and start over.
+*	Run APSIM and Daycent
+  *	Every APSIM scenario file must be run manually and separately. To do so:
+    *	Open the first scenario file for the site you are running.
     	Click “Run” from the menu bar on the right. Most scenarios will take several minutes to run. If there are errors, there will be a red “X” you can click on to see what the error messages are.
     	For .apsim files which contain multiple scenarios, as long as you don’t highlight any individual scenario (or have clicked on the <site> label at the top level), then all the scenarios within the .apsim file will run. Check for the “scen_#_#.out” files, which is the model output.
 •	Graph and analyze APSIM and Daycent output
