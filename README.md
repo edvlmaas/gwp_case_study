@@ -76,28 +76,28 @@ To run each site in its entirety, run “00_Main_KBS.R” and let it complete. T
 
 The 00_Main_<site> scripts set up some global variables for the site and controls which climate and management scenarios to run, based on numeric codes for each. These numeric codes are described the “scenario_df” data frame created by the 0_Observations_and_constants_<site> script. It is also written to the “Scenario_table.csv” file in the corresponding site’s results folder (<site>_results_2050). Note that at KBS, the management scenario group numbers run from 1-6, while at LRF, they run from 3-8. The management scenario group numbers indicate the scenario “family” where there are 0-5 different variations on the same treatment. The following are group numbers with multiple variations:
 
-•	Group 4: Reduced fertilizer (4 treatment levels)
-•	Group 5: Residue removal (3 and 6 treatment levels at KBS and LRF, respectively, due to no-till versions at LRF but not KBS)
-•	Group 6: Biochar addition (5 treatment levels)
+*	Group 4: Reduced fertilizer (4 treatment levels)
+*	Group 5: Residue removal (3 and 6 treatment levels at KBS and LRF, respectively, due to no-till versions at LRF but not KBS)
+*	Group 6: Biochar addition (5 treatment levels)
 
 These group numbers are followed by the treatment level, numbered 1-# number of levels. For example:
 
-•	41 = reduced fertilizer, 5%
-•	42 = reduced fertilizer, 15%
-•	51 = remove residue, 50%
-•	52 = remove residue, 25%
-•	61 = biochar addition, 19 Mg ha-1
-•	Etc.
+*	41 = reduced fertilizer, 5%
+*	42 = reduced fertilizer, 15%
+*	51 = remove residue, 50%
+*	52 = remove residue, 25%
+*	61 = biochar addition, 19 Mg ha-1
+*	Etc.
 
 The majority of the steps are executed from the 0_Controller2.R file. The Controller script executes each script in the process. There is a section at the beginning which duplicates the global variable declarations from the 00_Main_<site> scripts, for easier testing of one scenario at a time. It should remain commented out when running the full study. The remaining code is run in the following order:
 
-•	Create soil and other site data files
-•	Create management input files for APSIM and Daycent
-  o	APSIM management is written to a text file which must be manually copied and pasted into its corresponding scenario file. 
-    	The file is written to /APSIM/<site> named "mgmt_#_#.txt", where the first # is the 1-digit climate scenario number and the second # is the 1- or 2-digit management scenario number. The text in each management file must be copied and pasted into the Operations Schedule model window for that scenario in the corresponding APSIM scenario file, saved, and then run. The APSIM scenario files follow the same naming convention as "scen_#_#.apsim". Note, however, that some scenarios are bundled together to take advantage of APSIM’s “linking” capabilities. In APSIM, scenarios can be created that “point” to a common scenario, then small changes are made. At KBS, the “scen_#_1.apsim” files include groups 4 and 5 scenarios too, because they are all the same as group 1 (the baseline scenario) during the experimental period, then the future management is changed, which is the only difference between them. At LRF, “scen_#_5.apsim” includes all the group 4 and 5 scenarios, because they are extensions of scenario 53, which is the baseline scenario at LRF.
-    	To copy in the text, follow these steps exactly: 
-      •	Copy the “mgmt_#_#.txt” text (ctrl-a, copy).
-      •	Open the applicable scenario file.
+*	Create soil and other site data files
+*	Create management input files for APSIM and Daycent
+  -	APSIM management is written to a text file which must be manually copied and pasted into its corresponding scenario file. 
+    --	The file is written to /APSIM/<site> named "mgmt_#_#.txt", where the first # is the 1-digit climate scenario number and the second # is the 1- or 2-digit management scenario number. The text in each management file must be copied and pasted into the Operations Schedule model window for that scenario in the corresponding APSIM scenario file, saved, and then run. The APSIM scenario files follow the same naming convention as "scen_#_#.apsim". Note, however, that some scenarios are bundled together to take advantage of APSIM’s “linking” capabilities. In APSIM, scenarios can be created that “point” to a common scenario, then small changes are made. At KBS, the “scen_#_1.apsim” files include groups 4 and 5 scenarios too, because they are all the same as group 1 (the baseline scenario) during the experimental period, then the future management is changed, which is the only difference between them. At LRF, “scen_#_5.apsim” includes all the group 4 and 5 scenarios, because they are extensions of scenario 53, which is the baseline scenario at LRF.
+    --	To copy in the text, follow these steps exactly: 
+      *	Copy the “mgmt_#_#.txt” text (ctrl-a, copy).
+      *	Open the applicable scenario file.
       •	Expand the + at the “KBS” or “LRF” top level.
       •	Expand the + at the “scen_#_#” level that corresponds to the “mgmt_#_#” file.
       •	Expand the + at “paddock”.
