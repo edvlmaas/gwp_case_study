@@ -1,0 +1,10 @@
+"treatment_scen","scenario_abbrev","Source","n2o_val"
+"Cover Crop, Crop Rotation","CC-CR","Observed",914.09
+"Cover Crop, Crop Rotation","CC-CR","APSIM",486.09
+"Cover Crop, Crop Rotation","CC-CR","Daycent",599.5945
+"Rmv Resid 0%, Crop Rotation","RR00-CR","Observed",842.87
+"Rmv Resid 0%, Crop Rotation","RR00-CR","APSIM",983.15
+"Rmv Resid 0%, Crop Rotation","RR00-CR","Daycent",908.0872
+"Rmv Resid 0%, No Till, Crop Rotation","RR00-NT-CR","Observed",983.25
+"Rmv Resid 0%, No Till, Crop Rotation","RR00-NT-CR","APSIM",1044.83
+"Rmv Resid 0%, No Till, Crop Rotation","RR00-NT-CR","Daycent",800.1981

@@ -1,0 +1,158 @@
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData*
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron
+
+# large data files
+*.tif
+*.ovr
+
+# All archived file and miscellaneous directories
+Archive/
+Cluster/
+/APSIM/KBS/Result graphs/
+/APSIM/KBS/Soil temp testing/
+/Daycent/SOURCE_CODE-vEVI/
+/Millennial/R/analysis/
+/Millennial/R/simulation/KBS/Result Graphs/
+/RothC/KBS/Result Graphs/
+/RothC/KBS/troubleshooting/
+/RothC/KBS/auto/
+/RothC/KBS/output/
+/RothC/KBS/graph/
+#/KBS_results_2100/
+#/KBS_results_2050/
+#/LRF_results_2100/
+#/LRF_results_2050/
+
+# Specific files
+.nfs*
+test*
+*_test*
+*_old*
+*- Copy.R
+*- Copy.csv
+*- Copy.out
+*- Copy.jpg
+*- Copy.bin
+*- Copy.lis
+*- Copy.in
+*- Copy.100
+*- Copy.wth
+*.jpg
+*.png
+*.nc
+*.bak
+*.pdf
+*.zip
+*.docx
+*.exe
+*.pptx
+#Annual_results*.csv
+#Calibration*.csv
+#Daily_results*.csv
+#Summary_output.csv
+mean_annual_results.csv
+annual_results.csv
+soiln.out
+summary.out
+nflux.out
+soilc.out
+mean_daily_results.csv
+daily_results.csv
+s
+#scenario_means.csv
+#log.txt
+.1
+*.dll
+*.DLL
+C14bomb.dat
+C14NOBOM.DAT
+fort.13
+fort.99
+SETUP.LST
+ST6UNST.LOG
+RothC_Interface.CAB
+AUTO.OUT
+
+###### new output suppression, based on old coding, below
+*.db*
+#*.out
+*.sum
+# can't *.csv because some .csv are input files
+*.bin
+*.lis
+#base_out*.csv
+
+###### old coding - limits to models and sites, which will get tedious
+###### as new models and sites added. will run out of free LFS space
+###### anyway, so just supress output file types
+#/APSIM/*.db*
+#/APSIM/KBS/*.out
+#/APSIM/KBS/*.db*
+#/APSIM/KBS/*.sum
+#/APSIM/KBS/*.xlsx
+#/APSIM/KBS/BC[0-9][0-9]_[0-9].csv
+#/APSIM/KBS/BC[0-9]_[0-9].csv
+#/Daycent/*.1
+#/Daycent/*.out
+#/Daycent/KBS/*.1
+#/Daycent/KBS/*.out
+#/Daycent/KBS/*.csv
+#/Daycent/LRF/*.csv
+#/Daycent/KBS/*.bin
+#/Daycent/KBS/*.lis
+#/Daycent/SOURCE_CODE-vEVI/
+#/RothC/KBS/*.dll
+#/RothC/KBS/*.DLL
+#/RothC/KBS/C14bomb.dat
+#/RothC/KBS/C14NOBOM.DAT
+#/RothC/KBS/fort.13
+#/RothC/KBS/fort.99
+#/RothC/KBS/SETUP.LST
+#/RothC/KBS/ST6UNST.LOG
+#/RothC/KBS/RothC_Interface.CAB
+#/Millennial/R/simulation/KBS/base_out*.csv
+#/Millennial/R/simulation/KBS/scenario_out*.csv
+#/Millennial/R/simulation/LRF/base_out*.csv
+#/Millennial/R/simulation/LRF/scenario_out*.csv
+
+# LFS files
+#/KBS_results/mean_daily_results.csv

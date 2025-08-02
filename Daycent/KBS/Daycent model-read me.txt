@@ -1,0 +1,5 @@
+To aquire the DD17centEVI version, release 279, of Daycent, contact: SCSC_Consortium@colostate.edu
+
+You will need to copy both "DD17centEVI.exe" and "DD17list100.exe" files to this folder.
+
+You will also need to copy the same files to the LRF folder, as both files MUST be in both locations.

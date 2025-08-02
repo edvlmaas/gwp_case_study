@@ -1,0 +1,6 @@
+"","APSIM_cotton_med","Daycent_cotton_med","Ensemble_cotton_med","Obs_cotton_med","APSIM_sorghum_med","Daycent_sorghum_med","Ensemble_sorghum_med","Obs_sorghum_med","scenario","site"
+"1",1,0.7,0.9,0.9,1.7,2.2,1.7,0.4,"CC-CR","LRF"
+"2",1,0.4,0.8,1,1.7,1.9,1.7,0.3,"CC-NT-CR","LRF"
+"3",1,0.8,0.9,0.9,NA,NA,NA,NA,"CN","LRF"
+"4",1,1.1,1.1,0.5,1.9,0.6,1.7,2.5,"RR00-CR","LRF"
+"5",0.8,0.9,0.8,0.5,2,0.5,1.6,2.4,"RR00-NT-CR","LRF"

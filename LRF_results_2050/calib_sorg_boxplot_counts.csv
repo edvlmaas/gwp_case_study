@@ -1,0 +1,17 @@
+"","Model","scenario_abbrev","crop","n_count"
+"1","APSIM","CC-CR","Sorghum",21
+"2","APSIM","CC-NT-CR","Sorghum",21
+"3","APSIM","RR00-CR","Sorghum",23
+"4","APSIM","RR00-NT-CR","Sorghum",23
+"5","Daycent","CC-CR","Sorghum",22
+"6","Daycent","CC-NT-CR","Sorghum",22
+"7","Daycent","RR00-CR","Sorghum",22
+"8","Daycent","RR00-NT-CR","Sorghum",23
+"9","Ensemble","CC-CR","Sorghum",43
+"10","Ensemble","CC-NT-CR","Sorghum",43
+"11","Ensemble","RR00-CR","Sorghum",45
+"12","Ensemble","RR00-NT-CR","Sorghum",46
+"13","Historical","CC-CR","Sorghum",24
+"14","Historical","CC-NT-CR","Sorghum",24
+"15","Historical","RR00-CR","Sorghum",24
+"16","Historical","RR00-NT-CR","Sorghum",24

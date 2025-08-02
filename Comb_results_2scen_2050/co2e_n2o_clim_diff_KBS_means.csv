@@ -1,0 +1,17 @@
+"","x"
+"CC_CR",0.9
+"RF05_CR",1.5
+"RF15_CR",1.5
+"RF25_CR",1.4
+"RF35_CR",1.4
+"RR00_CR",1.7
+"RR00_NT_CR",1.8
+"RR25_CR",1.7
+"RR25_NT_CR",1.8
+"RR50_CR",1.6
+"RR50_NT_CR",1.6
+"mean_all",1.5
+"mean_RF",1.5
+"mean_RR",1.7
+"mean_RR_NT",1.7
+"mean_all_NT",1.7

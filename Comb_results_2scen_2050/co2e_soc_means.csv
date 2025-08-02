@@ -1,0 +1,17 @@
+"site","climate_scen","model","mean_val"
+"KBS","Baseline","APSIM",-16.6
+"KBS","Baseline","Daycent",-3.3
+"KBS","Baseline","RothC",2.9
+"KBS","UKESM","APSIM",-11.6
+"KBS","UKESM","Daycent",4.7
+"KBS","UKESM","RothC",9.2
+"LRF","Baseline","APSIM",-0.3
+"LRF","Baseline","Daycent",-6.7
+"LRF","Baseline","RothC",-0.2
+"LRF","UKESM","APSIM",1.4
+"LRF","UKESM","Daycent",-6.3
+"LRF","UKESM","RothC",-0.5
+"KBS","Baseline","APSIM all",-14.8
+"KBS","UKESM","APSIM all",-9.1
+"LRF","Baseline","APSIM all",2.2
+"LRF","UKESM","APSIM all",3.3

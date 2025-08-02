@@ -1,0 +1,397 @@
+"year","Obs_sd","treatment_scen","Model","C_val"
+1989,4.33021208102636,"Cover Crop, Crop Rotation","Observed",35.2116666666667
+1989,NA,"Cover Crop, Crop Rotation","APSIM",33.4
+1989,NA,"Cover Crop, Crop Rotation","Daycent",31.5
+1989,NA,"Cover Crop, Crop Rotation","RothC",31.8593
+1990,NA,"Cover Crop, Crop Rotation","Observed",NA
+1990,NA,"Cover Crop, Crop Rotation","APSIM",33.2
+1990,NA,"Cover Crop, Crop Rotation","Daycent",31.4
+1990,NA,"Cover Crop, Crop Rotation","RothC",31.3988
+1991,4.4384580655899,"Cover Crop, Crop Rotation","Observed",32.745
+1991,NA,"Cover Crop, Crop Rotation","APSIM",33.2
+1991,NA,"Cover Crop, Crop Rotation","Daycent",31.6
+1991,NA,"Cover Crop, Crop Rotation","RothC",31.9056
+1992,4.46919567707658,"Cover Crop, Crop Rotation","Observed",33.855
+1992,NA,"Cover Crop, Crop Rotation","APSIM",34.5
+1992,NA,"Cover Crop, Crop Rotation","Daycent",31.8
+1992,NA,"Cover Crop, Crop Rotation","RothC",32.5215
+1993,1.33747024889029,"Cover Crop, Crop Rotation","Observed",9.86666666666667
+1993,NA,"Cover Crop, Crop Rotation","APSIM",34.2
+1993,NA,"Cover Crop, Crop Rotation","Daycent",32
+1993,NA,"Cover Crop, Crop Rotation","RothC",32.2444
+1994,7.25583742008231,"Cover Crop, Crop Rotation","Observed",32.9916666666667
+1994,NA,"Cover Crop, Crop Rotation","APSIM",34.3
+1994,NA,"Cover Crop, Crop Rotation","Daycent",32.7
+1994,NA,"Cover Crop, Crop Rotation","RothC",32.9747
+1995,4.52349275081399,"Cover Crop, Crop Rotation","Observed",36.5066666666667
+1995,NA,"Cover Crop, Crop Rotation","APSIM",34.7
+1995,NA,"Cover Crop, Crop Rotation","Daycent",33.4
+1995,NA,"Cover Crop, Crop Rotation","RothC",33.7376
+1996,4.00842820400549,"Cover Crop, Crop Rotation","Observed",32.1283333333333
+1996,NA,"Cover Crop, Crop Rotation","APSIM",34.7
+1996,NA,"Cover Crop, Crop Rotation","Daycent",33.9
+1996,NA,"Cover Crop, Crop Rotation","RothC",33.484
+1997,4.86799650780483,"Cover Crop, Crop Rotation","Observed",33.115
+1997,NA,"Cover Crop, Crop Rotation","APSIM",34.8
+1997,NA,"Cover Crop, Crop Rotation","Daycent",33.7
+1997,NA,"Cover Crop, Crop Rotation","RothC",34.1869
+1998,16.4962194658857,"Cover Crop, Crop Rotation","Observed",61.1116666666667
+1998,NA,"Cover Crop, Crop Rotation","APSIM",35.6
+1998,NA,"Cover Crop, Crop Rotation","Daycent",33.9
+1998,NA,"Cover Crop, Crop Rotation","RothC",34.6748
+1999,4.21648510808074,"Cover Crop, Crop Rotation","Observed",33.1766666666667
+1999,NA,"Cover Crop, Crop Rotation","APSIM",35.3
+1999,NA,"Cover Crop, Crop Rotation","Daycent",34.1
+1999,NA,"Cover Crop, Crop Rotation","RothC",34.8514
+2000,3.46893499506693,"Cover Crop, Crop Rotation","Observed",35.705
+2000,NA,"Cover Crop, Crop Rotation","APSIM",35.6
+2000,NA,"Cover Crop, Crop Rotation","Daycent",34.4
+2000,NA,"Cover Crop, Crop Rotation","RothC",35.1301
+2001,4.0508945514129,"Cover Crop, Crop Rotation","Observed",35.0266666666667
+2001,NA,"Cover Crop, Crop Rotation","APSIM",36.1
+2001,NA,"Cover Crop, Crop Rotation","Daycent",34.3
+2001,NA,"Cover Crop, Crop Rotation","RothC",35.6426
+2002,NA,"Cover Crop, Crop Rotation","Observed",NA
+2002,NA,"Cover Crop, Crop Rotation","APSIM",36.2
+2002,NA,"Cover Crop, Crop Rotation","Daycent",34.6
+2002,NA,"Cover Crop, Crop Rotation","RothC",36.2844
+2003,NA,"Cover Crop, Crop Rotation","Observed",NA
+2003,NA,"Cover Crop, Crop Rotation","APSIM",36.3
+2003,NA,"Cover Crop, Crop Rotation","Daycent",34.7
+2003,NA,"Cover Crop, Crop Rotation","RothC",36.2102
+2004,NA,"Cover Crop, Crop Rotation","Observed",NA
+2004,NA,"Cover Crop, Crop Rotation","APSIM",36.8
+2004,NA,"Cover Crop, Crop Rotation","Daycent",34.7
+2004,NA,"Cover Crop, Crop Rotation","RothC",36.5826
+2005,NA,"Cover Crop, Crop Rotation","Observed",NA
+2005,NA,"Cover Crop, Crop Rotation","APSIM",36.7
+2005,NA,"Cover Crop, Crop Rotation","Daycent",35
+2005,NA,"Cover Crop, Crop Rotation","RothC",36.5228
+2006,NA,"Cover Crop, Crop Rotation","Observed",NA
+2006,NA,"Cover Crop, Crop Rotation","APSIM",36.9
+2006,NA,"Cover Crop, Crop Rotation","Daycent",35.6
+2006,NA,"Cover Crop, Crop Rotation","RothC",37.6055
+2007,NA,"Cover Crop, Crop Rotation","Observed",NA
+2007,NA,"Cover Crop, Crop Rotation","APSIM",37.2
+2007,NA,"Cover Crop, Crop Rotation","Daycent",35.7
+2007,NA,"Cover Crop, Crop Rotation","RothC",38.2747
+2008,NA,"Cover Crop, Crop Rotation","Observed",NA
+2008,NA,"Cover Crop, Crop Rotation","APSIM",37.2
+2008,NA,"Cover Crop, Crop Rotation","Daycent",35.9
+2008,NA,"Cover Crop, Crop Rotation","RothC",38.4391
+2009,NA,"Cover Crop, Crop Rotation","Observed",NA
+2009,NA,"Cover Crop, Crop Rotation","APSIM",37.3
+2009,NA,"Cover Crop, Crop Rotation","Daycent",35.8
+2009,NA,"Cover Crop, Crop Rotation","RothC",37.6171
+2010,NA,"Cover Crop, Crop Rotation","Observed",NA
+2010,NA,"Cover Crop, Crop Rotation","APSIM",38.1
+2010,NA,"Cover Crop, Crop Rotation","Daycent",35.6
+2010,NA,"Cover Crop, Crop Rotation","RothC",37.3538
+2011,NA,"Cover Crop, Crop Rotation","Observed",NA
+2011,NA,"Cover Crop, Crop Rotation","APSIM",38.2
+2011,NA,"Cover Crop, Crop Rotation","Daycent",35.9
+2011,NA,"Cover Crop, Crop Rotation","RothC",38.0852
+2012,NA,"Cover Crop, Crop Rotation","Observed",NA
+2012,NA,"Cover Crop, Crop Rotation","APSIM",38.2
+2012,NA,"Cover Crop, Crop Rotation","Daycent",35.8
+2012,NA,"Cover Crop, Crop Rotation","RothC",38.1696
+2013,NA,"Cover Crop, Crop Rotation","Observed",NA
+2013,NA,"Cover Crop, Crop Rotation","APSIM",38.4
+2013,NA,"Cover Crop, Crop Rotation","Daycent",36
+2013,NA,"Cover Crop, Crop Rotation","RothC",38.5615
+2014,NA,"Cover Crop, Crop Rotation","Observed",NA
+2014,NA,"Cover Crop, Crop Rotation","APSIM",38.3
+2014,NA,"Cover Crop, Crop Rotation","Daycent",36.2
+2014,NA,"Cover Crop, Crop Rotation","RothC",39.1368
+2015,NA,"Cover Crop, Crop Rotation","Observed",NA
+2015,NA,"Cover Crop, Crop Rotation","APSIM",38.4
+2015,NA,"Cover Crop, Crop Rotation","Daycent",36
+2015,NA,"Cover Crop, Crop Rotation","RothC",38.7262
+2016,NA,"Cover Crop, Crop Rotation","Observed",NA
+2016,NA,"Cover Crop, Crop Rotation","APSIM",39.3
+2016,NA,"Cover Crop, Crop Rotation","Daycent",35.9
+2016,NA,"Cover Crop, Crop Rotation","RothC",38.8444
+2017,NA,"Cover Crop, Crop Rotation","Observed",NA
+2017,NA,"Cover Crop, Crop Rotation","APSIM",39.2
+2017,NA,"Cover Crop, Crop Rotation","Daycent",36
+2017,NA,"Cover Crop, Crop Rotation","RothC",38.5409
+2018,NA,"Cover Crop, Crop Rotation","Observed",NA
+2018,NA,"Cover Crop, Crop Rotation","APSIM",39.4
+2018,NA,"Cover Crop, Crop Rotation","Daycent",36.3
+2018,NA,"Cover Crop, Crop Rotation","RothC",38.5907
+2019,NA,"Cover Crop, Crop Rotation","Observed",NA
+2019,NA,"Cover Crop, Crop Rotation","APSIM",39.7
+2019,NA,"Cover Crop, Crop Rotation","Daycent",36
+2019,NA,"Cover Crop, Crop Rotation","RothC",38.902
+2020,NA,"Cover Crop, Crop Rotation","Observed",NA
+2020,NA,"Cover Crop, Crop Rotation","APSIM",39.8
+2020,NA,"Cover Crop, Crop Rotation","Daycent",36.3
+2020,NA,"Cover Crop, Crop Rotation","RothC",39.7476
+2021,NA,"Cover Crop, Crop Rotation","Observed",NA
+2021,NA,"Cover Crop, Crop Rotation","APSIM",39.9
+2021,NA,"Cover Crop, Crop Rotation","Daycent",36.3
+2021,NA,"Cover Crop, Crop Rotation","RothC",40.7482
+1989,7.63912649074923,"Rmv Resid 0%, Crop Rotation","Observed",33.4629166666667
+1989,NA,"Rmv Resid 0%, Crop Rotation","APSIM",28
+1989,NA,"Rmv Resid 0%, Crop Rotation","Daycent",29.2
+1989,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.7387
+1990,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+1990,NA,"Rmv Resid 0%, Crop Rotation","APSIM",28.1
+1990,NA,"Rmv Resid 0%, Crop Rotation","Daycent",29.1
+1990,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.8212
+1991,6.92389228505181,"Rmv Resid 0%, Crop Rotation","Observed",31.47625
+1991,NA,"Rmv Resid 0%, Crop Rotation","APSIM",29.3
+1991,NA,"Rmv Resid 0%, Crop Rotation","Daycent",29.3
+1991,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.5524
+1992,5.79793188703236,"Rmv Resid 0%, Crop Rotation","Observed",29.1791666666667
+1992,NA,"Rmv Resid 0%, Crop Rotation","APSIM",29.4
+1992,NA,"Rmv Resid 0%, Crop Rotation","Daycent",30.4
+1992,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.9408
+1993,1.53435036470379,"Rmv Resid 0%, Crop Rotation","Observed",9.62291666666667
+1993,NA,"Rmv Resid 0%, Crop Rotation","APSIM",30.3
+1993,NA,"Rmv Resid 0%, Crop Rotation","Daycent",30.8
+1993,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.6644
+1994,6.50080983737154,"Rmv Resid 0%, Crop Rotation","Observed",31.3520833333333
+1994,NA,"Rmv Resid 0%, Crop Rotation","APSIM",30.6
+1994,NA,"Rmv Resid 0%, Crop Rotation","Daycent",31.2
+1994,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.8378
+1995,7.5535799459594,"Rmv Resid 0%, Crop Rotation","Observed",30.9175
+1995,NA,"Rmv Resid 0%, Crop Rotation","APSIM",30.9
+1995,NA,"Rmv Resid 0%, Crop Rotation","Daycent",31.7
+1995,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.8647
+1996,3.50559246656919,"Rmv Resid 0%, Crop Rotation","Observed",31.7245833333333
+1996,NA,"Rmv Resid 0%, Crop Rotation","APSIM",31.1
+1996,NA,"Rmv Resid 0%, Crop Rotation","Daycent",32
+1996,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.8345
+1997,6.34198799010741,"Rmv Resid 0%, Crop Rotation","Observed",29.1791666666667
+1997,NA,"Rmv Resid 0%, Crop Rotation","APSIM",31.5
+1997,NA,"Rmv Resid 0%, Crop Rotation","Daycent",31.7
+1997,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.8909
+1998,9.96579643288316,"Rmv Resid 0%, Crop Rotation","Observed",39.5470833333333
+1998,NA,"Rmv Resid 0%, Crop Rotation","APSIM",32
+1998,NA,"Rmv Resid 0%, Crop Rotation","Daycent",32.1
+1998,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.8783
+1999,7.75092452818802,"Rmv Resid 0%, Crop Rotation","Observed",32.0970833333333
+1999,NA,"Rmv Resid 0%, Crop Rotation","APSIM",31.7
+1999,NA,"Rmv Resid 0%, Crop Rotation","Daycent",32.4
+1999,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.8838
+2000,6.75756478881261,"Rmv Resid 0%, Crop Rotation","Observed",30.35875
+2000,NA,"Rmv Resid 0%, Crop Rotation","APSIM",32
+2000,NA,"Rmv Resid 0%, Crop Rotation","Daycent",32.4
+2000,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.9195
+2001,6.86216045000892,"Rmv Resid 0%, Crop Rotation","Observed",28.7445833333333
+2001,NA,"Rmv Resid 0%, Crop Rotation","APSIM",32.5
+2001,NA,"Rmv Resid 0%, Crop Rotation","Daycent",32.8
+2001,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.887
+2002,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2002,NA,"Rmv Resid 0%, Crop Rotation","APSIM",32.7
+2002,NA,"Rmv Resid 0%, Crop Rotation","Daycent",33.2
+2002,NA,"Rmv Resid 0%, Crop Rotation","RothC",31.132
+2003,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2003,NA,"Rmv Resid 0%, Crop Rotation","APSIM",33
+2003,NA,"Rmv Resid 0%, Crop Rotation","Daycent",33.1
+2003,NA,"Rmv Resid 0%, Crop Rotation","RothC",31.1547
+2004,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2004,NA,"Rmv Resid 0%, Crop Rotation","APSIM",33.4
+2004,NA,"Rmv Resid 0%, Crop Rotation","Daycent",33.5
+2004,NA,"Rmv Resid 0%, Crop Rotation","RothC",31.0891
+2005,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2005,NA,"Rmv Resid 0%, Crop Rotation","APSIM",33.3
+2005,NA,"Rmv Resid 0%, Crop Rotation","Daycent",33.7
+2005,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.9978
+2006,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2006,NA,"Rmv Resid 0%, Crop Rotation","APSIM",33.7
+2006,NA,"Rmv Resid 0%, Crop Rotation","Daycent",33.5
+2006,NA,"Rmv Resid 0%, Crop Rotation","RothC",31.0381
+2007,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2007,NA,"Rmv Resid 0%, Crop Rotation","APSIM",33.9
+2007,NA,"Rmv Resid 0%, Crop Rotation","Daycent",33.9
+2007,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.9855
+2008,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2008,NA,"Rmv Resid 0%, Crop Rotation","APSIM",34
+2008,NA,"Rmv Resid 0%, Crop Rotation","Daycent",34.1
+2008,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.9275
+2009,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2009,NA,"Rmv Resid 0%, Crop Rotation","APSIM",34.2
+2009,NA,"Rmv Resid 0%, Crop Rotation","Daycent",34.1
+2009,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.9788
+2010,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2010,NA,"Rmv Resid 0%, Crop Rotation","APSIM",34.9
+2010,NA,"Rmv Resid 0%, Crop Rotation","Daycent",34.6
+2010,NA,"Rmv Resid 0%, Crop Rotation","RothC",30.9572
+2011,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2011,NA,"Rmv Resid 0%, Crop Rotation","APSIM",34.8
+2011,NA,"Rmv Resid 0%, Crop Rotation","Daycent",34.8
+2011,NA,"Rmv Resid 0%, Crop Rotation","RothC",31.0132
+2012,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2012,NA,"Rmv Resid 0%, Crop Rotation","APSIM",35.1
+2012,NA,"Rmv Resid 0%, Crop Rotation","Daycent",34.8
+2012,NA,"Rmv Resid 0%, Crop Rotation","RothC",31.4641
+2013,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2013,NA,"Rmv Resid 0%, Crop Rotation","APSIM",35.3
+2013,NA,"Rmv Resid 0%, Crop Rotation","Daycent",35.5
+2013,NA,"Rmv Resid 0%, Crop Rotation","RothC",31.7746
+2014,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2014,NA,"Rmv Resid 0%, Crop Rotation","APSIM",35.3
+2014,NA,"Rmv Resid 0%, Crop Rotation","Daycent",35.8
+2014,NA,"Rmv Resid 0%, Crop Rotation","RothC",31.9219
+2015,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2015,NA,"Rmv Resid 0%, Crop Rotation","APSIM",35.6
+2015,NA,"Rmv Resid 0%, Crop Rotation","Daycent",35.6
+2015,NA,"Rmv Resid 0%, Crop Rotation","RothC",32.3753
+2016,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2016,NA,"Rmv Resid 0%, Crop Rotation","APSIM",36.4
+2016,NA,"Rmv Resid 0%, Crop Rotation","Daycent",36.1
+2016,NA,"Rmv Resid 0%, Crop Rotation","RothC",32.508
+2017,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2017,NA,"Rmv Resid 0%, Crop Rotation","APSIM",36.3
+2017,NA,"Rmv Resid 0%, Crop Rotation","Daycent",36.1
+2017,NA,"Rmv Resid 0%, Crop Rotation","RothC",32.1067
+2018,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2018,NA,"Rmv Resid 0%, Crop Rotation","APSIM",36.6
+2018,NA,"Rmv Resid 0%, Crop Rotation","Daycent",36.1
+2018,NA,"Rmv Resid 0%, Crop Rotation","RothC",32.3813
+2019,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2019,NA,"Rmv Resid 0%, Crop Rotation","APSIM",36.8
+2019,NA,"Rmv Resid 0%, Crop Rotation","Daycent",36.7
+2019,NA,"Rmv Resid 0%, Crop Rotation","RothC",32.4772
+2020,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2020,NA,"Rmv Resid 0%, Crop Rotation","APSIM",37
+2020,NA,"Rmv Resid 0%, Crop Rotation","Daycent",37.2
+2020,NA,"Rmv Resid 0%, Crop Rotation","RothC",32.5663
+2021,NA,"Rmv Resid 0%, Crop Rotation","Observed",NA
+2021,NA,"Rmv Resid 0%, Crop Rotation","APSIM",37.2
+2021,NA,"Rmv Resid 0%, Crop Rotation","Daycent",36.9
+2021,NA,"Rmv Resid 0%, Crop Rotation","RothC",34.5705
+1989,7.52402402308765,"Rmv Resid 0%, No Till, Crop Rotation","Observed",37.1875
+1989,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",33.2
+1989,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",33.8
+1989,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.4813
+1990,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+1990,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",33.3
+1990,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",33.9
+1990,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.4308
+1991,4.43494644838018,"Rmv Resid 0%, No Till, Crop Rotation","Observed",35.75
+1991,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",34.3
+1991,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",34
+1991,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.132
+1992,4.88364617882991,"Rmv Resid 0%, No Till, Crop Rotation","Observed",33.375
+1992,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",35
+1992,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",34.2
+1992,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.2671
+1993,2.11357221310274,"Rmv Resid 0%, No Till, Crop Rotation","Observed",12.3125
+1993,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",35.4
+1993,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",34.5
+1993,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.9924
+1994,4.97069537388885,"Rmv Resid 0%, No Till, Crop Rotation","Observed",35.7
+1994,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",35.4
+1994,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",34.7
+1994,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.9635
+1995,2.56265243449048,"Rmv Resid 0%, No Till, Crop Rotation","Observed",36.675
+1995,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",36.1
+1995,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",35.1
+1995,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.8619
+1996,5.53426824431198,"Rmv Resid 0%, No Till, Crop Rotation","Observed",34.65
+1996,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",36.2
+1996,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",35.6
+1996,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.8461
+1997,4.79941402673284,"Rmv Resid 0%, No Till, Crop Rotation","Observed",36.525
+1997,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",36.4
+1997,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",35.8
+1997,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.765
+1998,3.06262754836431,"Rmv Resid 0%, No Till, Crop Rotation","Observed",41.175
+1998,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",37
+1998,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",36.1
+1998,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.6475
+1999,5.22718255851085,"Rmv Resid 0%, No Till, Crop Rotation","Observed",35.025
+1999,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",36.6
+1999,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",36.7
+1999,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.689
+2000,6.06874678166753,"Rmv Resid 0%, No Till, Crop Rotation","Observed",34.6875
+2000,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",37
+2000,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",36.9
+2000,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.7165
+2001,5.93717104351896,"Rmv Resid 0%, No Till, Crop Rotation","Observed",33.25
+2001,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",37.4
+2001,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",37.3
+2001,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.6705
+2002,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2002,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",37.6
+2002,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",37.9
+2002,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.8341
+2003,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2003,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",38
+2003,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",38.1
+2003,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.7174
+2004,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2004,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",38.4
+2004,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",38.5
+2004,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.5671
+2005,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2005,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",38.3
+2005,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",39
+2005,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.493
+2006,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2006,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",38.5
+2006,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",39.1
+2006,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.5081
+2007,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2007,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",38.7
+2007,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",39.6
+2007,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.4354
+2008,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2008,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",38.8
+2008,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",40
+2008,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.3761
+2009,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2009,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",38.9
+2009,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",40.2
+2009,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.3735
+2010,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2010,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",39.6
+2010,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",40.5
+2010,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.3006
+2011,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2011,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",39.5
+2011,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",41
+2011,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.3078
+2012,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2012,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",39.7
+2012,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",41.2
+2012,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.6093
+2013,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2013,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",40
+2013,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",41.7
+2013,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.8049
+2014,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2014,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",40
+2014,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",42.3
+2014,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.9684
+2015,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2015,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",40.4
+2015,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",42.4
+2015,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.2537
+2016,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2016,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",41
+2016,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",42.9
+2016,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.2841
+2017,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2017,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",40.9
+2017,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",43.2
+2017,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",34.9335
+2018,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2018,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",41.3
+2018,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",43.3
+2018,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.0775
+2019,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2019,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",41.6
+2019,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",43.8
+2019,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.0875
+2020,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2020,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",41.7
+2020,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",44.3
+2020,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",35.1327
+2021,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed",NA
+2021,NA,"Rmv Resid 0%, No Till, Crop Rotation","APSIM",41.9
+2021,NA,"Rmv Resid 0%, No Till, Crop Rotation","Daycent",44.5
+2021,NA,"Rmv Resid 0%, No Till, Crop Rotation","RothC",36.5522

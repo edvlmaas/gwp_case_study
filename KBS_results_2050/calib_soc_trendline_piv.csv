@@ -1,0 +1,199 @@
+"year","Obs_sd","treatment_scen","Model","Fit","value"
+1989,4.33021208102636,"Cover Crop, Crop Rotation","Observed","AllObs",35.2116666666667
+1989,4.33021208102636,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",35.2116666666667
+1990,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+1990,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+1991,4.4384580655899,"Cover Crop, Crop Rotation","Observed","AllObs",32.745
+1991,4.4384580655899,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",32.745
+1992,4.46919567707658,"Cover Crop, Crop Rotation","Observed","AllObs",33.855
+1992,4.46919567707658,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",33.855
+1993,1.33747024889029,"Cover Crop, Crop Rotation","Observed","AllObs",9.86666666666667
+1993,1.33747024889029,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+1994,7.25583742008231,"Cover Crop, Crop Rotation","Observed","AllObs",32.9916666666667
+1994,7.25583742008231,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",32.9916666666667
+1995,4.52349275081399,"Cover Crop, Crop Rotation","Observed","AllObs",36.5066666666667
+1995,4.52349275081399,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",36.5066666666667
+1996,4.00842820400549,"Cover Crop, Crop Rotation","Observed","AllObs",32.1283333333333
+1996,4.00842820400549,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",32.1283333333333
+1997,4.86799650780483,"Cover Crop, Crop Rotation","Observed","AllObs",33.115
+1997,4.86799650780483,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",33.115
+1998,16.4962194658857,"Cover Crop, Crop Rotation","Observed","AllObs",61.1116666666667
+1998,16.4962194658857,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+1999,4.21648510808074,"Cover Crop, Crop Rotation","Observed","AllObs",33.1766666666667
+1999,4.21648510808074,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",33.1766666666667
+2000,3.46893499506693,"Cover Crop, Crop Rotation","Observed","AllObs",35.705
+2000,3.46893499506693,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",35.705
+2001,4.0508945514129,"Cover Crop, Crop Rotation","Observed","AllObs",35.0266666666667
+2001,4.0508945514129,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",35.0266666666667
+2002,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2002,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2003,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2003,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2004,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2004,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2005,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2005,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2006,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2006,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2007,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2007,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2008,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2008,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2009,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2009,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2010,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2010,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2011,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2011,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2012,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2012,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2013,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2013,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2014,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2014,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2015,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2015,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2016,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2016,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2017,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2017,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2018,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2018,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2019,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2019,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2020,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2020,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+2021,NA,"Cover Crop, Crop Rotation","Observed","AllObs",NA
+2021,NA,"Cover Crop, Crop Rotation","Observed","OutlierRemoved",NA
+1989,7.63912649074923,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",33.4629166666667
+1989,7.63912649074923,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",33.4629166666667
+1990,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+1990,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+1991,6.92389228505181,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",31.47625
+1991,6.92389228505181,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",31.47625
+1992,5.79793188703236,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",29.1791666666667
+1992,5.79793188703236,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",29.1791666666667
+1993,1.53435036470379,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",9.62291666666667
+1993,1.53435036470379,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+1994,6.50080983737154,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",31.3520833333333
+1994,6.50080983737154,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",31.3520833333333
+1995,7.5535799459594,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",30.9175
+1995,7.5535799459594,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",30.9175
+1996,3.50559246656919,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",31.7245833333333
+1996,3.50559246656919,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",31.7245833333333
+1997,6.34198799010741,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",29.1791666666667
+1997,6.34198799010741,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",29.1791666666667
+1998,9.96579643288316,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",39.5470833333333
+1998,9.96579643288316,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+1999,7.75092452818802,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",32.0970833333333
+1999,7.75092452818802,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",32.0970833333333
+2000,6.75756478881261,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",30.35875
+2000,6.75756478881261,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",30.35875
+2001,6.86216045000892,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",28.7445833333333
+2001,6.86216045000892,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",28.7445833333333
+2002,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2002,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2003,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2003,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2004,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2004,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2005,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2005,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2006,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2006,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2007,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2007,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2008,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2008,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2009,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2009,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2010,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2010,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2011,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2011,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2012,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2012,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2013,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2013,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2014,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2014,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2015,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2015,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2016,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2016,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2017,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2017,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2018,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2018,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2019,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2019,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2020,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2020,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+2021,NA,"Rmv Resid 0%, Crop Rotation","Observed","AllObs",NA
+2021,NA,"Rmv Resid 0%, Crop Rotation","Observed","OutlierRemoved",NA
+1989,7.52402402308765,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",37.1875
+1989,7.52402402308765,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",37.1875
+1990,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+1990,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+1991,4.43494644838018,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",35.75
+1991,4.43494644838018,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",35.75
+1992,4.88364617882991,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",33.375
+1992,4.88364617882991,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",33.375
+1993,2.11357221310274,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",12.3125
+1993,2.11357221310274,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+1994,4.97069537388885,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",35.7
+1994,4.97069537388885,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",35.7
+1995,2.56265243449048,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",36.675
+1995,2.56265243449048,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",36.675
+1996,5.53426824431198,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",34.65
+1996,5.53426824431198,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",34.65
+1997,4.79941402673284,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",36.525
+1997,4.79941402673284,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",36.525
+1998,3.06262754836431,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",41.175
+1998,3.06262754836431,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+1999,5.22718255851085,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",35.025
+1999,5.22718255851085,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",35.025
+2000,6.06874678166753,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",34.6875
+2000,6.06874678166753,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",34.6875
+2001,5.93717104351896,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",33.25
+2001,5.93717104351896,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",33.25
+2002,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2002,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2003,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2003,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2004,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2004,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2005,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2005,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2006,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2006,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2007,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2007,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2008,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2008,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2009,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2009,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2010,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2010,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2011,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2011,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2012,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2012,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2013,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2013,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2014,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2014,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2015,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2015,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2016,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2016,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2017,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2017,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2018,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2018,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2019,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2019,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2020,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2020,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA
+2021,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","AllObs",NA
+2021,NA,"Rmv Resid 0%, No Till, Crop Rotation","Observed","OutlierRemoved",NA

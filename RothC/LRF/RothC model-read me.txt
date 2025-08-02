@@ -1,0 +1,8 @@
+The RothC model version 26.3 executable and supporting program files must be copied here. You can download the model from https://www.rothamsted.ac.uk/rothamsted-carbon-model-rothc
+
+**** PLEASE NOTE: ***** 
+When the model is installed, it will create a number of folders it uses to find various input and output files, such as "weather", "scenario", "graph", etc. Since the installation may overwrite these folders, install the model in a neutral location, then copy over the program files (everything but the folders, such as "A_263_1.dll", "ST6UNST.LOG" and several others) into this folder.
+
+The model files will need to be copied here, even if you've already copied model files into the KBS folder. The same RothC program files MUST be copied into BOTH folders.
+
+To run RothC, double-click the "RothC_Interface.exe" file with the globe icon. For further instructions, see the User's Guide, available at the same link above.

@@ -1,0 +1,16 @@
+"","Model","scenario_abbrev","n_count"
+"1","APSIM","CC-CR",13
+"2","APSIM","RR00-CR",13
+"3","APSIM","RR00-NT-CR",13
+"4","Daycent","CC-CR",13
+"5","Daycent","RR00-CR",13
+"6","Daycent","RR00-NT-CR",13
+"7","Ensemble","CC-CR",39
+"8","Ensemble","RR00-CR",39
+"9","Ensemble","RR00-NT-CR",39
+"10","Observed","CC-CR",72
+"11","Observed","RR00-CR",72
+"12","Observed","RR00-NT-CR",66
+"13","RothC","CC-CR",13
+"14","RothC","RR00-CR",13
+"15","RothC","RR00-NT-CR",13

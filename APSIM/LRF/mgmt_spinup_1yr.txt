@@ -1,0 +1,4 @@
+28/04/1987	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1987	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1987	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1987	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant

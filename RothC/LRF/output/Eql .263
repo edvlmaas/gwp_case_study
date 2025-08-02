@@ -1,0 +1,301 @@
+ *******************************************************************************
+
+
+    ROTHC-26.3 (DLL) : A MODEL FOR THE TURNOVER OF ORGANIC CARBON IN THE SOIL
+
+
+                                  October 1997
+
+
+           K.W. Coleman, D.S. Jenkinson, L.C. Parry and J.H. Rayner
+
+              IACR - Rothamsted, Harpenden, Herts. AL5 2JQ. U.K.
+
+                     Contact K.W. Coleman or D.S. Jenkinson
+
+
+                           Copyright IACR - Rothamsted
+
+
+
+
+ *******************************************************************************
+
+
+
+ Quality factor for incoming plant debris (DPM/RPM ratio) :- 0.67
+
+
+ Decomposition ratio :-
+
+ BIO   ...   0.46
+ HUM   ...   0.54
+
+
+ Decomposition rate constants :-
+ DPM   =      10.00
+ RPM   =       0.30
+ BIO   =       0.66
+ HUM   =       0.02
+
+
+ Site = Eqil                
+
+
+ Initial soil state :-
+ DPM   =     0.0000
+ RPM   =     0.0000
+ BIO   =     0.0000
+ HUM   =     0.0000
+ IOM   =     1.8292
+
+
+ Initial radiocarbon ages :-
+ DPM   =     0.0000
+ RPM   =     0.0000
+ BIO   =     0.0000
+ HUM   =     0.0000
+ IOM   = 50000.0000
+
+
+   Start year  =    0
+   Start month = JANUARY   
+
+
+ Month       Mean temperature  Rainfall  Evaporation
+ -----       ----------------  --------  -----------
+ JANUARY             4.6           9.5         8.6
+ FEBRUARY            6.6          13.3        15.0
+ MARCH              10.4          21.4        39.0
+ APRIL              15.9          29.2        84.4
+ MAY                20.6          63.0       147.2
+ JUNE               25.2          65.8        99.3
+ JULY               26.3          68.0      -365.9
+ AUGUST             25.3          52.6       145.6
+ SEPTEMBER          21.7          52.5       132.8
+ OCTOBER            16.3          43.9        75.6
+ NOVEMBER            9.6          13.5        27.1
+ DECEMBER            5.7          10.5        11.1
+
+
+ Percentage clay =  17.00
+
+
+ Sample depth 10.0 cm
+
+
+ ( From Eqil.dat)
+
+
+
+
+
+
+                               Carbon addition
+                               ===============
+
+                             Plant
+                Soil         Residue
+ Month          Cover        Input
+ -----          -----        -------
+ JANUARY        COVERED        0.02
+ FEBRUARY       COVERED        0.02
+ MARCH          COVERED        0.02
+ APRIL          COVERED        0.08
+ MAY            COVERED        0.07
+ JUNE           COVERED        0.07
+ JULY           COVERED        0.02
+ AUGUST         COVERED        0.02
+ SEPTEMBER      COVERED        0.28
+ OCTOBER        COVERED        0.28
+ NOVEMBER       COVERED        0.28
+ DECEMBER       COVERED        0.02
+
+ Total                         1.20
+
+
+ ( From Eqil.dat      )
+
+
+
+                 Soil
+                 Moisture
+ Month           Deficit
+ -----           --------
+ JANUARY             0.00
+ FEBRUARY            0.00
+ MARCH              -7.88
+ APRIL             -17.05
+ MAY               -17.05
+ JUNE              -17.05
+ JULY                0.00
+ AUGUST            -17.05
+ SEPTEMBER         -17.05
+ OCTOBER           -17.05
+ NOVEMBER          -17.05
+ DECEMBER          -14.86
+
+
+ Rate modifying factors
+ ----------------------
+                                        Crop
+ Month        Mean temp.   Moisture   Retainment       Product
+ -----        ----------   --------   ----------       -------
+ JANUARY        0.4594      1.0000      0.6000          0.2756
+ FEBRUARY       0.6608      1.0000      0.6000          0.3965
+ MARCH          1.1523      0.9733      0.6000          0.6730
+ APRIL          2.0612      0.2000      0.6000          0.2473
+ MAY            2.9469      0.2000      0.6000          0.3536
+ JUNE           3.8456      0.2000      0.6000          0.4615
+ JULY           4.0559      1.0000      0.6000          2.4335
+ AUGUST         3.8694      0.2000      0.6000          0.4643
+ SEPTEMBER      3.1434      0.2000      0.6000          0.3772
+ OCTOBER        2.1223      0.2000      0.6000          0.2547
+ NOVEMBER       1.0455      0.2000      0.6000          0.1255
+ DECEMBER       0.5660      0.3848      0.6000          0.1307
+
+
+ Starting conditions
+ ===================
+
+
+ Radiocarbon activity scaling factor =  1.0000
+
+                           Radio       Delta
+              Carbon        Age        Value
+              ------       -----       -----
+ DPM          0.0000        0.00        0.00
+ RPM          0.0000        0.00        0.00
+ BIO          0.0000        0.00        0.00
+ HUM          0.0000        0.00        0.00
+ IOM          1.8292    50000.00     -998.02
+
+ Total        1.8292    50000.00     -998.02
+
+
+
+
+ After year  10000
+ -----------------
+
+
+ Radiocarbon activity scaling factor =  1.0000
+
+                           Radio       Delta
+              Carbon        Age        Value
+              ------       -----       -----
+ DPM          0.2837        0.17       -0.02
+ RPM          4.8521        6.25       -0.78
+ BIO          0.4361       21.33       -2.64
+ HUM         16.5906      114.36      -14.13
+ IOM          1.8292    50000.00     -998.02
+
+ Total       23.9917      723.00      -86.05
+
+
+ *******************************************************************************
+
+
+
+ Quality factor for incoming plant debris (DPM/RPM ratio) :- 1.44
+
+
+ Decomposition ratio :-
+
+ BIO   ...   0.46
+ HUM   ...   0.54
+
+
+ Decomposition rate constants :-
+ DPM   =      10.00
+ RPM   =       0.30
+ BIO   =       0.66
+ HUM   =       0.02
+
+
+                               Carbon addition
+                               ===============
+
+                             Plant
+                Soil         Residue
+ Month          Cover        Input
+ -----          -----        -------
+ JANUARY        BARE           0.00
+ FEBRUARY       BARE           0.00
+ MARCH          BARE           0.00
+ APRIL          BARE           0.00
+ MAY            BARE           0.00
+ JUNE           COVERED        0.00
+ JULY           COVERED        0.00
+ AUGUST         COVERED        0.00
+ SEPTEMBER      COVERED        0.00
+ OCTOBER        COVERED        0.00
+ NOVEMBER       BARE           0.00
+ DECEMBER       BARE           0.00
+
+ Total                         0.00
+
+
+ ( From 940_1_3.dat   )
+
+
+
+                 Soil
+                 Moisture
+ Month           Deficit
+ -----           --------
+ JANUARY             0.00
+ FEBRUARY            0.00
+ MARCH              -7.88
+ APRIL              -9.48
+ MAY                -9.48
+ JUNE              -17.05
+ JULY                0.00
+ AUGUST            -17.05
+ SEPTEMBER         -17.05
+ OCTOBER           -17.05
+ NOVEMBER          -17.05
+ DECEMBER          -14.86
+
+
+ Rate modifying factors
+ ----------------------
+                                        Crop
+ Month        Mean temp.   Moisture   Retainment       Product
+ -----        ----------   --------   ----------       -------
+ JANUARY        0.4594      1.0000      1.0000          0.4594
+ FEBRUARY       0.6608      1.0000      1.0000          0.6608
+ MARCH          1.1523      0.9733      1.0000          1.1216
+ APRIL          2.0612      0.8388      1.0000          1.7290
+ MAY            2.9469      0.8388      1.0000          2.4720
+ JUNE           3.8456      0.2000      0.6000          0.4615
+ JULY           4.0559      1.0000      0.6000          2.4335
+ AUGUST         3.8694      0.2000      0.6000          0.4643
+ SEPTEMBER      3.1434      0.2000      0.6000          0.3772
+ OCTOBER        2.1223      0.2000      0.6000          0.2547
+ NOVEMBER       1.0455      0.2000      1.0000          0.2091
+ DECEMBER       0.5660      0.3848      1.0000          0.2178
+
+
+ After year  10001    (1940)
+ -----------------
+
+
+ Radiocarbon activity scaling factor =  0.9750
+
+                           Radio       Delta
+              Amount        Age        Value
+              ------       -----       -----
+ DPM          0.0000        1.17       -0.15
+ RPM          3.6984        7.25       -0.90
+ BIO          0.3834       23.47       -2.91
+ HUM         16.5141      114.13      -14.10
+ IOM          1.8292    50000.00     -998.02
+
+ Total       22.4251      775.22      -91.97
+
+
+
+ The accumulated CO2 lost to the atmosphere is      1.5666 tonnes / ha
+
+

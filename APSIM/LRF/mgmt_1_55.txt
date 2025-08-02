@@ -1,0 +1,257 @@
+28/04/1987	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1987	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1987	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1987	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1988	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1988	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1988	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1988	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1989	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1989	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1989	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1989	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1990	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1990	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1990	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1990	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1991	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1991	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1991	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1991	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1992	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1992	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1992	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1992	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1993	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1993	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1993	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1993	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1994	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1994	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1994	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1994	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1995	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1995	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1995	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1995	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1996	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1996	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1996	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1996	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1997	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1997	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1997	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1997	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1998	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1998	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1998	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1998	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/1999	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/1999	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/1999	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/1999	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/2000	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/2000	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/2000	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/2000	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/2001	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/2001	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/2001	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/2001	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+28/04/2002	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.9, tillage_depth = 150
+28/04/2002	fertiliser apply amount = 10 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/2002	surfaceorganicmatter tillage type = user_defined, f_incorp = 0.1, tillage_depth = 80
+20/05/2002	cotton sow plants = 12, sowing_depth = 25.4, cultivar = kwam, row_spacing = 1010, crop_class = plant
+27/05/2003	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2004	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2004	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2005	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2005	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+02/06/2006	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+24/06/2007	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+24/03/2008	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+24/03/2008	fertiliser apply amount = 15 (kg/ha), depth = 50 (mm), type = Rock_P
+13/05/2008	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+13/05/2009	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+12/03/2010	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+20/05/2010	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+28/04/2011	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2011	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2012	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2012	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2013	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2013	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2014	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2014	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2015	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2015	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2016	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2016	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2017	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2017	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2018	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2018	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2019	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2019	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2020	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2020	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2021	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2021	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2022	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2022	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2023	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2023	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2024	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2024	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2025	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2025	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2026	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2026	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2027	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2027	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2028	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2028	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2029	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2029	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2030	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2030	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2031	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2031	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2032	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2032	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2033	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2033	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2034	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2034	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2035	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2035	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2036	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2036	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2037	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2037	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2038	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2038	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2039	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2039	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2040	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2040	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2041	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2041	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2042	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2042	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2043	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2043	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2044	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2044	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2045	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2045	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2046	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2046	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2047	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2047	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2048	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2048	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2049	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2049	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2050	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2050	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2051	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2051	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2052	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2052	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2053	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2053	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2054	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2054	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2055	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2055	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2056	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2056	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2057	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2057	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2058	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2058	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2059	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2059	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2060	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2060	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2061	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2061	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2062	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2062	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2063	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2063	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2064	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2064	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2065	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2065	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2066	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2066	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2067	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2067	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2068	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2068	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2069	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2069	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2070	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2070	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2071	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2071	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2072	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2072	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2073	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2073	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2074	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2074	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2075	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2075	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2076	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2076	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2077	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2077	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2078	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2078	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2079	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2079	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2080	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2080	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2081	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2081	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2082	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2082	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2083	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2083	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2084	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2084	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2085	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2085	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2086	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2086	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2087	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2087	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2088	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2088	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2089	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2089	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2090	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2090	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2091	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2091	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2092	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2092	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2093	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2093	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2094	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2094	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2095	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2095	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2096	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2096	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2097	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2097	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2098	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2098	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant
+28/04/2099	fertiliser apply amount = 22 (kg/ha), depth = 50 (mm), type = NO3_N
+10/05/2099	cotton sow plants = 12, sowing_depth = 25.4, cultivar = s71br, row_spacing = 1010, crop_class = plant
+25/04/2100	fertiliser apply amount = 28 (kg/ha), depth = 50 (mm), type = NO3_N
+09/06/2100	sorghum sow plants = 3, sowing_depth = 25.4, cultivar = mycultivar, row_spacing = 1010, tiller_no_fertile = 1, crop_class = plant

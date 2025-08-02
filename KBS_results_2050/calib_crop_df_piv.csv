@@ -1,0 +1,298 @@
+"year","Obs_sd","crop","treatment_scen","Model","yield_val"
+1990,1.29169253307434,"Maize","Cover Crop, Crop Rotation","Observed",4.546
+1990,NA,"Maize","Cover Crop, Crop Rotation","APSIM",5.629
+1990,NA,"Maize","Cover Crop, Crop Rotation","Daycent",3.15557777777778
+1993,0.669948256708432,"Maize","Cover Crop, Crop Rotation","Observed",5.049
+1993,NA,"Maize","Cover Crop, Crop Rotation","APSIM",6.533
+1993,NA,"Maize","Cover Crop, Crop Rotation","Daycent",5.51758888888889
+1996,0.489029651452752,"Maize","Cover Crop, Crop Rotation","Observed",4.178
+1996,NA,"Maize","Cover Crop, Crop Rotation","APSIM",4.233
+1996,NA,"Maize","Cover Crop, Crop Rotation","Daycent",3.86888444444444
+1999,0.320954647367298,"Maize","Cover Crop, Crop Rotation","Observed",4.414
+1999,NA,"Maize","Cover Crop, Crop Rotation","APSIM",6.313
+1999,NA,"Maize","Cover Crop, Crop Rotation","Daycent",4.29955111111111
+2002,0.895819615026746,"Maize","Cover Crop, Crop Rotation","Observed",6.472
+2002,NA,"Maize","Cover Crop, Crop Rotation","APSIM",4.13
+2002,NA,"Maize","Cover Crop, Crop Rotation","Daycent",4.32336
+2005,0.489972829518808,"Maize","Cover Crop, Crop Rotation","Observed",7.627
+2005,NA,"Maize","Cover Crop, Crop Rotation","APSIM",5.326
+2005,NA,"Maize","Cover Crop, Crop Rotation","Daycent",4.63578888888889
+2008,0.353644493806987,"Maize","Cover Crop, Crop Rotation","Observed",5.08
+2008,NA,"Maize","Cover Crop, Crop Rotation","APSIM",5.55
+2008,NA,"Maize","Cover Crop, Crop Rotation","Daycent",3.43826666666667
+2011,0.627287549427427,"Maize","Cover Crop, Crop Rotation","Observed",11.85
+2011,NA,"Maize","Cover Crop, Crop Rotation","APSIM",6.305
+2011,NA,"Maize","Cover Crop, Crop Rotation","Daycent",5.60907333333333
+2014,0.651878127924742,"Maize","Cover Crop, Crop Rotation","Observed",8.915
+2014,NA,"Maize","Cover Crop, Crop Rotation","APSIM",5.33
+2014,NA,"Maize","Cover Crop, Crop Rotation","Daycent",4.12055111111111
+2017,0.77829674974695,"Maize","Cover Crop, Crop Rotation","Observed",7.692
+2017,NA,"Maize","Cover Crop, Crop Rotation","APSIM",6.024
+2017,NA,"Maize","Cover Crop, Crop Rotation","Daycent",3.64452888888889
+2020,0.924560541374477,"Maize","Cover Crop, Crop Rotation","Observed",8.486
+2020,NA,"Maize","Cover Crop, Crop Rotation","APSIM",5.868
+2020,NA,"Maize","Cover Crop, Crop Rotation","Daycent",4.55791111111111
+1991,0.24718656921443,"Soybean","Cover Crop, Crop Rotation","Observed",3.177
+1991,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",4.331
+1991,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",2.83124
+1994,0.398587004303954,"Soybean","Cover Crop, Crop Rotation","Observed",3.091
+1994,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",2.237
+1994,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",2.39797555555556
+1997,0.177018139371836,"Soybean","Cover Crop, Crop Rotation","Observed",1.814
+1997,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",2.162
+1997,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",2.27377333333333
+2000,0.147769506326576,"Soybean","Cover Crop, Crop Rotation","Observed",2.866
+2000,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",2.205
+2000,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",2.13468
+2003,0.235701908491778,"Soybean","Cover Crop, Crop Rotation","Observed",1.198
+2003,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",2.345
+2003,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",1.76990222222222
+2006,0.143260248033663,"Soybean","Cover Crop, Crop Rotation","Observed",3.205
+2006,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",2.369
+2006,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",2.09482222222222
+2009,0.249690061209225,"Soybean","Cover Crop, Crop Rotation","Observed",2.219
+2009,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",2.915
+2009,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",1.85847333333333
+2012,0.17434928926344,"Soybean","Cover Crop, Crop Rotation","Observed",1.405
+2012,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",2.2
+2012,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",1.25273555555556
+2015,0.168639580170255,"Soybean","Cover Crop, Crop Rotation","Observed",4.154
+2015,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",3.758
+2015,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",3.75264
+2018,0.187542223690204,"Soybean","Cover Crop, Crop Rotation","Observed",3.617
+2018,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",0.46
+2018,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",3.49496222222222
+2021,0.286698698985538,"Soybean","Cover Crop, Crop Rotation","Observed",4.094
+2021,NA,"Soybean","Cover Crop, Crop Rotation","APSIM",2.97
+2021,NA,"Soybean","Cover Crop, Crop Rotation","Daycent",3.08467777777778
+1989,0.583001000570897,"Wheat","Cover Crop, Crop Rotation","Observed",1.993
+1989,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",NA
+1989,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",NA
+1992,0.58560384789264,"Wheat","Cover Crop, Crop Rotation","Observed",2.283
+1992,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",0.969
+1992,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",1.67473333333333
+1995,0.097616878663477,"Wheat","Cover Crop, Crop Rotation","Observed",3.177
+1995,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",2.83
+1995,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",3.50957333333333
+1998,0.155551068784499,"Wheat","Cover Crop, Crop Rotation","Observed",2.209
+1998,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",2.557
+1998,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",2.06930666666667
+2001,0.182797654981312,"Wheat","Cover Crop, Crop Rotation","Observed",3.676
+2001,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",4.219
+2001,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",2.24472222222222
+2004,0.166491701494899,"Wheat","Cover Crop, Crop Rotation","Observed",3.847
+2004,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",3.517
+2004,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",3.75379111111111
+2007,0.0817207052506686,"Wheat","Cover Crop, Crop Rotation","Observed",2.54
+2007,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",3.182
+2007,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",3.05855555555556
+2010,0.398985269987084,"Wheat","Cover Crop, Crop Rotation","Observed",3.12
+2010,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",3.814
+2010,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",4.98126
+2013,0.288822159814651,"Wheat","Cover Crop, Crop Rotation","Observed",3.319
+2013,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",2.87
+2013,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",2.35127333333333
+2016,0.259653772679441,"Wheat","Cover Crop, Crop Rotation","Observed",5.137
+2016,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",5.102
+2016,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",4.52435555555556
+2019,0.179026981206744,"Wheat","Cover Crop, Crop Rotation","Observed",4.814
+2019,NA,"Wheat","Cover Crop, Crop Rotation","APSIM",4.591
+2019,NA,"Wheat","Cover Crop, Crop Rotation","Daycent",5.24997111111111
+1989,1.07450405614249,"Maize","Rmv Resid 0%, Crop Rotation","Observed",7.906
+1989,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",6.731
+1989,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",7.28939111111111
+1991,1.06759964406139,"Maize","Rmv Resid 0%, Crop Rotation","Observed",8.326
+1991,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",7.618
+1991,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",5.87963777777778
+1993,0.862294915714262,"Maize","Rmv Resid 0%, Crop Rotation","Observed",7.113
+1993,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",7.918
+1993,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",6.44519111111111
+1996,1.11360669298755,"Maize","Rmv Resid 0%, Crop Rotation","Observed",3.201
+1996,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",6.984
+1996,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",4.66414888888889
+1999,0.482018466105466,"Maize","Rmv Resid 0%, Crop Rotation","Observed",4.013
+1999,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",6.877
+1999,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",3.46094222222222
+2002,1.43045399320169,"Maize","Rmv Resid 0%, Crop Rotation","Observed",5.398
+2002,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",6.074
+2002,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",6.91992
+2005,1.2779785049053,"Maize","Rmv Resid 0%, Crop Rotation","Observed",7.313
+2005,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",5.598
+2005,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",5.25451777777778
+2008,1.23505972163293,"Maize","Rmv Resid 0%, Crop Rotation","Observed",5.277
+2008,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",6.838
+2008,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",6.90505777777778
+2011,0.757556378760024,"Maize","Rmv Resid 0%, Crop Rotation","Observed",10.995
+2011,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",8.066
+2011,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",10.6488888888889
+2014,0.966263714348555,"Maize","Rmv Resid 0%, Crop Rotation","Observed",9.725
+2014,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",8.639
+2014,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",9.74722222222222
+2017,0.5046824136689,"Maize","Rmv Resid 0%, Crop Rotation","Observed",7.963
+2017,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",7.749
+2017,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",7.41286888888889
+2020,1.37874513187415,"Maize","Rmv Resid 0%, Crop Rotation","Observed",6.617
+2020,NA,"Maize","Rmv Resid 0%, Crop Rotation","APSIM",7.124
+2020,NA,"Maize","Rmv Resid 0%, Crop Rotation","Daycent",11.1353377777778
+1990,0.124258869569406,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",2.841
+1990,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",2.367
+1990,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",2.12169555555556
+1992,0.0583383807340131,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",1.839
+1992,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",1.353
+1992,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",2.05365333333333
+1994,0.256220803214727,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",3.012
+1994,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",2.231
+1994,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",2.62170222222222
+1997,0.197971513102264,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",1.515
+1997,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",1.62
+1997,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",2.48527555555556
+2000,0.254539380057389,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",2.657
+2000,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",2.154
+2000,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",2.73429111111111
+2003,0.192232907345924,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",1.621
+2003,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",1.945
+2003,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",1.52777555555556
+2006,0.242023007170806,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",2.867
+2006,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",1.943
+2006,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",2.20015111111111
+2009,0.111984332237446,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",1.967
+2009,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",2.68
+2009,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",2.33008
+2012,0.300616318031252,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",1.302
+2012,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",1.947
+2012,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",1.15056444444444
+2015,0.316425564180056,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",3.537
+2015,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",3.216
+2015,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",3.81105111111111
+2018,0.43508111734097,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",3.101
+2018,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",0.684
+2018,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",3.41337555555556
+2021,0.316662924890174,"Soybean","Rmv Resid 0%, Crop Rotation","Observed",4.226
+2021,NA,"Soybean","Rmv Resid 0%, Crop Rotation","APSIM",3.661
+2021,NA,"Soybean","Rmv Resid 0%, Crop Rotation","Daycent",4.093
+1995,0.192045221237083,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",3.302
+1995,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",4.226
+1995,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",4.25614444444444
+1998,0.358558774354591,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",3.014
+1998,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",3.483
+1998,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",2.78417555555556
+2001,0.335893495024837,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",4.203
+2001,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",5.513
+2001,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",2.93122222222222
+2004,0.127139382831075,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",4.075
+2004,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",4.206
+2004,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",4.00829555555556
+2007,0.344201658431023,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",3.109
+2007,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",4.039
+2007,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",3.17023111111111
+2010,0.351083334836617,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",2.671
+2010,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",4.168
+2010,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",4.3907
+2013,0.139644190713398,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",3.716
+2013,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",3.251
+2013,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",3.22265333333333
+2016,0.267291456404178,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",5.798
+2016,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",5.786
+2016,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",3.82650666666667
+2019,0.181421616683349,"Wheat","Rmv Resid 0%, Crop Rotation","Observed",5.584
+2019,NA,"Wheat","Rmv Resid 0%, Crop Rotation","APSIM",5.125
+2019,NA,"Wheat","Rmv Resid 0%, Crop Rotation","Daycent",5.78884444444444
+1989,0.43773587926968,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",8.112
+1989,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",6.758
+1989,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",6.68205777777778
+1991,0.330753054911566,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",8.026
+1991,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",8.213
+1991,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",8.31072666666667
+1993,0.633050629886741,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",7.09
+1993,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",8.028
+1993,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",6.02382444444444
+1996,0.990027019833297,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",4.041
+1996,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",6.789
+1996,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",3.91176444444444
+1999,0.284180915967276,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",3.804
+1999,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",7.268
+1999,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",3.64757333333333
+2002,0.376830103627616,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",5.221
+2002,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",6.179
+2002,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",6.13756888888889
+2005,0.858893626514173,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",8.805
+2005,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",6.319
+2005,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",4.88773555555556
+2008,0.475627456804868,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",6.516
+2008,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",6.697
+2008,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",6.32751555555556
+2011,0.736637942728086,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",11.52
+2011,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",7.965
+2011,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",10.1988488888889
+2014,0.456625193128894,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",11.437
+2014,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",8.829
+2014,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",9.09404666666667
+2017,0.979473257759836,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",9.927
+2017,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",7.649
+2017,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",7.20249555555556
+2020,0.646018590031794,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Observed",10.293
+2020,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","APSIM",7.16
+2020,NA,"Maize","Rmv Resid 0%, No Till, Crop Rotation","Daycent",10.4004066666667
+1990,0.164235704603678,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",2.973
+1990,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",2.428
+1990,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.08275555555556
+1992,0.103902678823343,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",2.219
+1992,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",1.314
+1992,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.49128666666667
+1994,0.210382271116176,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",2.862
+1994,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",2.412
+1994,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.68212666666667
+1997,0.144096849375689,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",2.044
+1997,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",1.632
+1997,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.43384
+2000,0.0828401774503169,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",2.922
+2000,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",2.047
+2000,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.75085555555556
+2003,0.0875255334173977,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",1.855
+2003,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",1.957
+2003,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.04733111111111
+2006,0.0830034396877625,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",3.602
+2006,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",1.876
+2006,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.26086444444444
+2009,0.154909199210376,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",2.57
+2009,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",2.63
+2009,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.31169555555556
+2012,0.128236745903817,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",1.884
+2012,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",1.95
+2012,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",1.38534444444444
+2015,0.0452377460387525,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",3.966
+2015,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",3.209
+2015,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",3.75103333333333
+2018,0.17961560065874,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",3.589
+2018,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",0.131
+2018,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",3.53441111111111
+2021,0.144962377877848,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Observed",4.18
+2021,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","APSIM",3.688
+2021,NA,"Soybean","Rmv Resid 0%, No Till, Crop Rotation","Daycent",4.38683333333333
+1995,0.219579627925725,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",3.485
+1995,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",4.423
+1995,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",4.49702222222222
+1998,0.0972404596862849,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",2.802
+1998,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",3.45
+1998,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",2.89913777777778
+2001,0.285547276295888,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",3.726
+2001,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",5.747
+2001,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",3.84377333333333
+2004,0.150016514646444,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",4.162
+2004,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",4.355
+2004,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",4.11798444444444
+2007,0.219504797214093,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",4.199
+2007,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",4.092
+2007,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",3.23127111111111
+2010,0.144821109188774,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",3.646
+2010,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",4.328
+2010,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",4.85574888888889
+2013,0.27859969430469,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",3.033
+2013,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",3.27
+2013,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",3.51302444444444
+2016,0.170595139633774,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",5.886
+2016,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",5.923
+2016,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",3.97355333333333
+2019,0.151472686206678,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Observed",5.192
+2019,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","APSIM",5.07
+2019,NA,"Wheat","Rmv Resid 0%, No Till, Crop Rotation","Daycent",6.05057555555556

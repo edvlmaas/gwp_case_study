@@ -1,0 +1,4 @@
+"","APSIM_corn_range","Daycent_corn_range","Ensemble_corn_range","Obs_corn_range","APSIM_soybean_range","Daycent_soybean_range","Ensemble_soybean_range","Obs_soybean_range","APSIM_wheat_range","Daycent_wheat_range","Ensemble_wheat_range","Obs_wheat_range","scenario","site"
+"1",2.4,2.5,3.4,9.5,1.6,2.5,2.5,3.5,4.1,3.6,4.3,4.4,"CC-CR","KBS"
+"2",3,7.7,5.1,10,1.9,2.9,2.9,3.6,2.5,3,3,4,"RR00-CR","KBS"
+"3",2.7,6.8,6.8,9.4,1.9,2.4,2.4,2.6,2.7,2,3,3.3,"RR00-NT-CR","KBS"
