@@ -1,6 +1,6 @@
 This Readme file is available in Word format in the repository as Readme.docx. The formatting will be better if you use that version.
 
-This Readme provides guidance for navigating the code base for the “Management alternatives for climate-smart agriculture in the U.S.: A model ensemble case study” paper by Ellen Maas and Debjani Sihi, published in Agronomy Journal 2025 ([![DOI](https://zenodo.org/badge/697439621.svg)](https://doi.org/10.5281/zenodo.8384338). It is divided into the following sections:
+This Readme provides guidance for navigating the code base for the “Management alternatives for climate-smart agriculture in the U.S.: A model ensemble case study” paper by Ellen Maas and Debjani Sihi, published in Agronomy Journal 2025 [![DOI](https://zenodo.org/badge/697439621.svg)](https://doi.org/10.5281/zenodo.8384338). It is divided into the following sections:
 * Overview of the study and code
 * Computer and software setup
 * Model acquisition
